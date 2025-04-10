@@ -1,0 +1,6 @@
+spacy==3.6.0
+nltk
+gensim
+pandas
+matplotlib
+seaborn
